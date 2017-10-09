@@ -27,7 +27,9 @@ figcaption {
   color: white;
   text-shadow: 0 2px 3px #000;
 }
-
+.shadow {
+  box-shadow: 0 3px 10px #333;
+}
 
 
 /*////////// BACKGROUNDS //////////*/
@@ -159,8 +161,6 @@ section {
 #details a:active {
   color: red;
 }
-.shadow {
-  box-shadow: 0 3px 10px #333;
-}
+
 
 /*////////// FOOTER //////////*/
